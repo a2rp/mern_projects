@@ -22,6 +22,7 @@ Projects may use a different folder structure when it better fits their architec
 - [mern](projects/mern/)
 - [mern2](projects/mern2/)
 - [mern-auth](projects/mern-auth/)
+- [mern-auth-chakra-frontend](projects/mern-auth-chakra-frontend/) — frontend only
 
 ## Running a project
 
