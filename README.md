@@ -30,6 +30,7 @@ Projects may use a different folder structure when it better fits their architec
 - [mern-full-stack2](projects/mern-full-stack2/)
 - [mern-stack-authorization-example](projects/mern-stack-authorization-example/)
 - [react-redux-toolkit-mern-crud-app](projects/react-redux-toolkit-mern-crud-app/)
+- [tapasranjan-mern-login](projects/tapasranjan-mern-login/)
 
 ## Running a project
 
