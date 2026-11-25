@@ -24,6 +24,7 @@ Projects may use a different folder structure when it better fits their architec
 - [mern-auth](projects/mern-auth/)
 - [mern-auth-chakra-frontend](projects/mern-auth-chakra-frontend/) — frontend only
 - [mern-auth-crud](projects/mern-auth-crud/)
+- [mern-authorization-example](projects/mern-authorization-example/) — source repo empty
 
 ## Running a project
 
