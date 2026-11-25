@@ -27,6 +27,7 @@ Projects may use a different folder structure when it better fits their architec
 - [mern-authorization-example](projects/mern-authorization-example/) — source repo empty
 - [mern-full-stack-app1](projects/mern-full-stack-app1/)
 - [mern-full-stack1](projects/mern-full-stack1/)
+- [mern-full-stack2](projects/mern-full-stack2/)
 
 ## Running a project
 
