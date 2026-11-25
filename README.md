@@ -20,6 +20,7 @@ Projects may use a different folder structure when it better fits their architec
 ## Projects
 
 - [mern](projects/mern/)
+- [mern2](projects/mern2/)
 
 ## Running a project
 
