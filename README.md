@@ -19,7 +19,7 @@ Projects may use a different folder structure when it better fits their architec
 
 ## Projects
 
-Projects will be listed here as they are added.
+- [mern](projects/mern/)
 
 ## Running a project
 
