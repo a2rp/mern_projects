@@ -21,6 +21,7 @@ Projects may use a different folder structure when it better fits their architec
 
 - [mern](projects/mern/)
 - [mern2](projects/mern2/)
+- [mern-auth](projects/mern-auth/)
 
 ## Running a project
 
