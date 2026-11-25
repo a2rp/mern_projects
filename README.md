@@ -28,6 +28,7 @@ Projects may use a different folder structure when it better fits their architec
 - [mern-full-stack-app1](projects/mern-full-stack-app1/)
 - [mern-full-stack1](projects/mern-full-stack1/)
 - [mern-full-stack2](projects/mern-full-stack2/)
+- [mern-stack-authorization-example](projects/mern-stack-authorization-example/)
 
 ## Running a project
 
